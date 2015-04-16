@@ -248,10 +248,6 @@ tips：
 
 #####客服邮箱：kefu@haojieru.com
 
-#####客服邮箱：kefu@haojieru.com
-
-#####客服邮箱：kefu@haojieru.com
-
 #####商务 QQ：940111913
 
 #####商务邮箱：sales@haojieru.com
