@@ -1,3 +1,8 @@
+![](https://raw.githubusercontent.com/KuaiFaMaster/FastAssistant_PC_DOC/master/img/logo.png)
+
+[TOC]
+
+
 #1 软件简介
 致力于降低游戏开发之外的繁复，提高效率！
 *   完全免费
@@ -258,3 +263,4 @@ tips：
 
 
         
+
