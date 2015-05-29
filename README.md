@@ -242,7 +242,6 @@ tips：
 
     参数，填写正确。游戏包名为游戏母包包名。
 
-
 ##6.16 91玩
 ![](http://static.youxigongchang.com/upload/game/201504/09/df/a9/yzj5aD.png)
 
@@ -253,7 +252,10 @@ tips：
 	
 	渠道私钥填写参数时不要-----BEGIN RSA PRIVATE KEY-----和-----END RSA PRIVATE KEY-----。
 
- 
+##  6.18 酷狗
+![](https://github.com/KuaiFaMaster/FastAssistant_PC_DOC/blob/master/img/kugou.jpg?raw=true)
+
+	code参数填写时请删除注释-----BEGIN PUBLIC KEY-----、-----END PUBLIC KEY-----和换行
 
 #7 感谢您选择快发助手
     
