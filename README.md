@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/KuaiFaMaster/FastAssistant_PC_DOC/master/img/logo.png)
 
-[TOC]
+
 
 
 #1 软件简介
@@ -246,6 +246,13 @@ tips：
 ![](http://static.youxigongchang.com/upload/game/201504/09/df/a9/yzj5aD.png)
 
     参数填一样的。注意美图也是要单独签名。打出包以后，渠道有自己的签名。使用签名命令重新签一次名即可。
+    
+##6.17 安峰
+ ![](https://raw.githubusercontent.com/KuaiFaMaster/FastAssistant_PC_DOC/a39c216c80fafc6b096a8ba6cef94b4e6a379b5d/img/anfeng.jpg)
+	
+	渠道私钥填写参数时不要-----BEGIN RSA PRIVATE KEY-----和-----END RSA PRIVATE KEY-----。
+
+ 
 
 #7 感谢您选择快发助手
     
