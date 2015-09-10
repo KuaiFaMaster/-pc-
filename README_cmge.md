@@ -41,7 +41,7 @@
 *   把待打包的游戏接入母包sdk
 
 ##5.2 登陆
-![登陆](http://7xlm26.com1.z0.glb.clouddn.com/1.png)
+![登陆](http://7xlm26.com1.z0.glb.clouddn.com/1_1.png)
 
 
 ##5.3 功能预览
